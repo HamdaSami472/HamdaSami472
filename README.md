@@ -1,16 +1,17 @@
-## Hi there 👋
+#About Me:
+I started coding because I wanted to understand how things work. Today, as a Computer Science undergraduate, that curiosity has turned into a disciplined pursuit of mastery.<br><br>My journey has taken me from building healthcare systems in C++ to designing database architectures in C#, and now into the world of web development. Each project has taught me something new — not just about syntax or frameworks, but about structure, planning, and the importance of writing code that others can understand.<br><br>I'm at the stage where I'm ready to move beyond academic projects and into professional environments. I'm looking for internships where I can contribute, learn, and grow alongside a team of engineers. I want to see how real products are built, how teams collaborate, and how code is shipped at scale.<br><br>When I'm not at my computer, I'm likely on the badminton court or reading a book. Badminton teaches me to stay quick on my feet — reading teaches me to think deeply. Both keep me balanced and energized.<br><br>The kind of engineer I want to become is one who is reliable, curious, and continuously improving. I know that's a long road, but I'm committed to walking it — one commit, one project, one problem at a time.
 
-<!--
-**HamdaSami472/HamdaSami472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hamda-sami-17b058392) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamda.sami@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hamdasami472&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hamdasami472&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hamdasami472&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://komarev.com/ghpvc/?username=hamdasami472&icon=0&color=0)](https://visitcount.itsvg.in)
